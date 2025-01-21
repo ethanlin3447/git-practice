@@ -1,2 +1,3 @@
 Name: Ethan Lin
 Favorite Subject: Theatre
+Learning Git is sometimes hard but easy!
